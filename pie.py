@@ -11,5 +11,5 @@ print(secret)
 
 # how to replace an _ with a letter 
 
-secret[2] = "i"
+secret[2] = "_"
 print(secret)
